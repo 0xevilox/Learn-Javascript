@@ -1,4 +1,4 @@
-# Chanllege Question (Answer only for first data)
+# Challenge Question (Answer only for first data)
 
 ## Coding Challenge #1
 Mark and John are trying to compare their BMI (Body Mass Index), which is calculated using the formula:
